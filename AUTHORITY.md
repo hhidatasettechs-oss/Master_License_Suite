@@ -24,3 +24,10 @@ No automated system has authority to alter licensing terms
 or enforcement constraints defined in this repository.
 
 Human Authority is final.
+remote:
+remote:   3b8f0027de013d9f39be3c541724f1854a86eda8
+remote:
+remote: - Cannot change this locked branch
+To github.com:hollowhouseinstitute/Master_License_Suite.git
+ ! [remote rejected] main -> main (protected branch hook declined)
+error: failed to push some refs to 'github.com:hollowhouseinstitute/Master_License_Suite.git'
