@@ -146,3 +146,18 @@ This repository operates under the canonical governance standard:
 https://github.com/hollowhouseinstitute/HHI-GOV-01
 
 Governance authority is singular. No local policy supersedes HHI-GOV-01.
+
+## Behavioral AI Governance Enforcement
+
+This repository aligns with the Hollow House Institute governance framework.
+
+Canonical reference:
+https://github.com/hhidatasettechs-oss/Hollow_House_Standards_Library
+
+Enforced terms:
+- behavioral-ai-governance
+- execution-time-governance
+- governance-drift
+- behavioral-accumulation
+
+All terminology must remain consistent with the canonical glossary.
